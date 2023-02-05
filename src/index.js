@@ -15,3 +15,5 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+// doc of manage business profile info https://googleapis.dev/nodejs/googleapis/latest/mybusinessbusinessinformation/classes/Resource$Accounts.html#source
+// https://github.com/googleapis/google-api-nodejs-client/tree/main/src/apis/mybusinessbusinessinformation
